@@ -286,7 +286,7 @@ body {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/hero-img/mobile-hero-min.jpg);
+    url(../css/media/bg-phone.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -299,7 +299,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero-img/mobile-hero@2x-min.jpg);
+      url(../css/media/bg-phone@2x.jpg);
   }
 }
 
